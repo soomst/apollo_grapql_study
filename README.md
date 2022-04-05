@@ -1,4 +1,6 @@
 # apollo_grapql_study
+
 with nomad coder
 
-1. 영화 웹서비스 만들기
+1. Apollo 2020
+   - Movie app built with React, Apollo and GraphQL
