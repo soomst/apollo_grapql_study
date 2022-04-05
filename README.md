@@ -1,2 +1,4 @@
 # apollo_grapql_study
-with yalco youtube
+with nomad coder
+
+1. 영화 웹서비스 만들기
